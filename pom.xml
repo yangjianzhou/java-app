@@ -12,7 +12,8 @@
         <module>threadLocal</module>
         <module>io</module>
         <module>concurrent</module>
+        <module>rateLimiter</module>
+        <module>circuitBreaker</module>
+        <module>db</module>
     </modules>
-
-
 </project>
