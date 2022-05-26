@@ -7,8 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="concurrent" />
+        <module name="circuitBreaker" />
         <module name="threadLocal" />
+        <module name="rateLimiter" />
         <module name="io" />
+        <module name="db" />
       </profile>
     </annotationProcessing>
   </component>
